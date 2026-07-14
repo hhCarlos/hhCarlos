@@ -5,8 +5,6 @@ I build interfaces, APIs, automation projects and small systems to understand ho
 
 I like clean UI, useful products, readable code, testing, architecture, and learning things the hard way.
 
-> A la cancha se viene a jugar.
-
 ## What I work with
 
 ### Frontend
